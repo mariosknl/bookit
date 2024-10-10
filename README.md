@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Bookit - A simple booking system
 
-## Getting Started
+This is a simple booking system that allows users to book a room for a specific date and time.
+The system is build using NextJS, Appwrite and TailwindCSS. It uses Appwrite as a backend service
+to store the data. Appwrite is also controlling the user management and authentication.
 
-First, run the development server:
+![Login](./assets/images/login.png)
+![Register](./assets/images/register.png)
+![Homepage](./assets/images/homepage.png)
+![My_Bookings](./assets/images/my_bookings.png)
+![Add_Room](./assets/images/add_room.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# BUILD WITH
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- HTML
+- NextJS
+- Tailwind CSS
+- AppWrite
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Live Version
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://bookit-coral.vercel.app/
 
-## Learn More
+# AUTHOR
 
-To learn more about Next.js, take a look at the following resources:
+- Github: [@mariosknl](https://github.com/mariosknl)
+- Twitter: [@mariosknl](https://x.com/MariosKnl)
+- Linkedln: [marios-kanellopoulos](https://www.linkedin.com/in/marios-kanellopoulos)
+- Portfolio: [marios-kanellopoulos](https://marioskanellopoulos.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Show your support
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Give ⭐️ if you like this project!
 
-## Deploy on Vercel
+# Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Brad Traversy - Traversy Media
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
