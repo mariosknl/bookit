@@ -4,11 +4,11 @@ This is a simple booking system that allows users to book a room for a specific 
 The system is build using NextJS, Appwrite and TailwindCSS. It uses Appwrite as a backend service
 to store the data. Appwrite is also controlling the user management and authentication.
 
-![Login](./assets/images/login.png)
-![Register](./assets/images/register.png)
-![Homepage](./assets/images/homepage.png)
-![My_Bookings](./assets/images/my_bookings.png)
-![Add_Room](./assets/images/add_room.png)
+![Login](./assets/images/login.jpeg)
+![Register](./assets/images/register.jpeg)
+![Homepage](./assets/images/homepage.jpeg)
+![My_Bookings](./assets/images/my_bookings.jpeg)
+![Add_Room](./assets/images/add_room.jpeg)
 
 # BUILD WITH
 
