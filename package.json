@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "luxon": "^3.5.0",
-    "next": "16.2.9",
+    "next": "16.2.10",
     "node-appwrite": "^25.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
